@@ -30,7 +30,7 @@
   <img alt="azure" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/azure/azure-original.svg">
   <img alt="jenkins" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/jenkins/jenkins-original.svg">
   <img alt="trello" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/trello/trello-plain.svg">
-  <img alt="vscode" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/-original.svg">
+  <img alt="vscode" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original.svg">
   <img align="right" alt="Logo" height="150" src="https://github.com/yamatoguro/yamatoguro/blob/main/logo-animated.gif?raw=true" />
 </div>
   <br>
